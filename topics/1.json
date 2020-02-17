@@ -7,6 +7,30 @@
                 {
                     "text": "Лабораторная работа 1. Разметка личной страницы, разработка UML диаграммы прецедентов",
                     "class": "md-title"
+                },
+                {
+                    "text": "1. Идентификатор прецедента",
+                    "class": "md-title"
+                },
+                {
+                    "text": "2. Название прецедента",
+                    "class": "md-title"
+                },
+                {
+                    "text": "3. Контекст",
+                    "class": "md-title"
+                },
+                {
+                    "text": "5. Предусловия (pre-conditions)",
+                    "class": "md-title"
+                },
+                {
+                    "text": "6. Постусловия (post-conditions)",
+                    "class": "md-title"
+                },
+                {
+                    "text": "8. Исключения (exceptions)",
+                    "class": "md-title"
                 }
             ]
         }
