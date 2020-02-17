@@ -5,7 +5,7 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Лабораторная работа 1. Разметка личной страницы, разработка UML диаграммы прецедентов",
+                    "text": "Лабораторная работа 1",
                     "class": "md-title"
                 }
             ]
@@ -175,6 +175,19 @@
                 [{
                     "text": "Продолжительность прецедента: 4 ак.часа = 3 нормочаса"
                 }]
+            ]
+        },
+        {
+            "type": "image",
+            "data": "Диаграмма Proc.png"
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Ссылка на код",
+                    "link": "https://github.com/Voronin98/design2-student-page/blob/master/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20proc.txt"
+                }
             ]
         }
     ]
