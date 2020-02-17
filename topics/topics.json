@@ -1,14 +1,38 @@
 [
     {
         "id": 1,
-        "title": "UML Use Case",
-        "description": "Диаграмма прецедента",
+        "title": "Лабораторная работа №1",
+        "description": "Лабораторная работа №1",
         "preview": "img/use-case-diagram.png"
     },
     {
         "id": 2,
-        "title": "UML Class",
-        "description": "Диаграмма классов",
+        "title": "Лабораторная работа №2",
+        "description": "Лабораторная работа №2",
         "preview": "img/class-diagram.png"
     }
+    {
+        "id": 3,
+        "title": "Лабораторная работа №3",
+        "description": "Лабораторная работа №3",
+        "preview": "https://i.sunhome.ru/dreamer/116/popugai-v2.xxl.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Лабораторная работа №4",
+        "description": "Лабораторная работа №4",
+        "preview": "https://i.sunhome.ru/dreamer/116/popugai-v2.xxl.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Лабораторная работа №5",
+        "description": "Лабораторная работа №5",
+        "preview": "https://i.sunhome.ru/dreamer/116/popugai-v2.xxl.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Лабораторная работа №6",
+        "description": "Лабораторная работа №6",
+        "preview": "https://i.sunhome.ru/dreamer/116/popugai-v2.xxl.jpg"
+    },
 ]
