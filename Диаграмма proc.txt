@@ -1,0 +1,31 @@
+@startuml
+skinparam actor {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+skinparam usecase {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+left to right direction
+actor P0 as "Человек"
+actor M0 as "Игровой движок"
+actor P as "Пользователь"
+actor M as "Unity 5"
+
+package APP as "Система визуализации Солнечной Системы"{
+usecase A as "Задать начальные данные"
+usecase C as "Визуалиазция"
+usecase D as "Просмотр результата визуализации"
+P -- (A)
+(A) -- M
+P -- (C)
+(C) -- M
+P -- (D)
+(D) -- M
+}
+P0 <|-- P
+M --|> M0
+@enduml
